@@ -29,7 +29,7 @@ app.config["SECRET_KEY"] = "super_secret_key"
 # MongoDB
 # ==============================
 
-MONGO_URI = "mongodb+srv://srsuser:srs123@cluster0.7nd42fr.mongodb.net/srsdb?retryWrites=true&w=majority"
+MONGO_URI = mongodb_key
 client = MongoClient(MONGO_URI, tlsCAFile=certifi.where())
 db = client["srsdb"]
 
