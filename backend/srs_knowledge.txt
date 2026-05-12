@@ -1,0 +1,17 @@
+Lexical ambiguity occurs due to vague words like fast, easy, secure.
+
+Semantic ambiguity means unclear meaning.
+
+Optionality ambiguity comes from may, could.
+
+Good requirements use SHALL.
+
+Functional requirements describe system behavior.
+
+Non functional requirements describe performance and security.
+
+IEEE SRS format includes introduction, overall description, functional and non functional requirements.
+
+Avoid subjective terms.
+
+Use measurable values.

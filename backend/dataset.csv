@@ -1,0 +1,9 @@
+requirement,label
+System should load fast,1
+UI must be intuitive,1
+Response time < 2 seconds,0
+Passwords encrypted using AES,0
+Application should be user friendly,1
+Login completes within 3 seconds,0
+System must be secure,1
+
